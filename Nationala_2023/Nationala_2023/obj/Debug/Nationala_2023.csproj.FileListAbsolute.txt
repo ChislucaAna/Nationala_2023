@@ -1,0 +1,12 @@
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\bin\Debug\Jocuri.mdf
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\bin\Debug\Jocuri_log.ldf
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\bin\Debug\Nationala_2023.exe.config
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\bin\Debug\Nationala_2023.exe
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\bin\Debug\Nationala_2023.pdb
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.Form1.resources
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.exe
+C:\Users\anach\OneDrive\Desktop\Nationala_2023\Nationala_2023\obj\Debug\Nationala_2023.pdb
